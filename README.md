@@ -1,7 +1,7 @@
 # Your Personality in Emoji
 
 ## Implementation steps
-### Demo
+### Loop through the myEmojis array and log each of them out to the console
 ### Demo
 ### Demo
 ### Demo
